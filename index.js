@@ -52,15 +52,15 @@ const nintendo = {
   }
   
 
-app.get("https://lively-pinafore-bull.cyclic.app/", (request,response) => {
+app.get("/", (request,response) => {
     response.sendFile(__dirname + "/index.html")
 })
 
-app.get("https://lively-pinafore-bull.cyclic.app/api", (request, response)=> {
+app.get("/api", (request, response)=> {
     response.json(nintendo)
 })
 
-app.get("https://lively-pinafore-bull.cyclic.app/api/:number", (request, response)=> {
+app.get("/api/:number", (request, response)=> {
     const nintendoNames = request.params.number
     if ( nintendo[nintendoNames]){
         response.json(nintendo[nintendoNames])
