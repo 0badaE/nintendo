@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 50%;
+    
+}
+  button{
+    width: 30px;
+    height: 30px;
+    margin-top: 1%;
+}
+ 
+section{
+    margin: auto;
+    width: 50%; 
+    margin-top: 5%;
+}
+
+img{
+    width: 450px;
+}
