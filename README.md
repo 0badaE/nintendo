@@ -3,7 +3,8 @@ api making practice
 
 This is my first ever time working with backend! 
 I made my very own API, that I then used a getFetch API to retrieve the info from 
-so I can make a little web app using HTML and JS 
+my own API so I can make a little web app using HTML and JS 
+
 
 I made an api containing Nintendo devics, their release date, how many sold and their price. 
 
