@@ -17,5 +17,8 @@ of how the app works.
 
 
 
-https://github.com/0badaE/nintendo/assets/105763414/1d19cc07-4fb3-48e5-a7b2-73c93340add6
+
+https://github.com/0badaE/nintendo/assets/105763414/b7c570aa-e864-4e74-a5d3-40717f3f9504
+
+
 
